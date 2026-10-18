@@ -1,0 +1,2285 @@
+{
+ "app": {
+  "name": "momo 的小天地",
+  "notice": "示例数据：片名与剧情来自公开资料，未接入真实视频。"
+ },
+ "shows": [
+  {
+   "id": "peppa",
+   "title": "小猪佩奇",
+   "subtitle": "Peppa Pig",
+   "kidIntro": "佩奇和弟弟乔治，一起跳泥坑、找朋友！",
+   "intro": "英国学龄前动画，每集约5分钟，讲佩奇一家和小伙伴们的日常小故事。",
+   "unitName": "季",
+   "sources": [
+    {
+     "label": "英文维基·集数列表（各季集数、英文片名、顺序）",
+     "url": "https://en.wikipedia.org/wiki/List_of_Peppa_Pig_episodes"
+    },
+    {
+     "label": "番组百科·小猪佩奇第一季（中文片名与剧情）",
+     "url": "https://www.anibk.com/bk/11688"
+    },
+    {
+     "label": "番组百科·小猪佩奇第二季",
+     "url": "https://www.anibk.com/bk/11689"
+    },
+    {
+     "label": "番组百科·小猪佩奇第三季",
+     "url": "https://www.anibk.com/bk/11690"
+    },
+    {
+     "label": "百度百科·小猪佩奇第1季（第一季片名交叉核对）",
+     "url": "https://baike.baidu.com/item/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87%E7%AC%AC1%E5%AD%A3/56767384"
+    },
+    {
+     "label": "中文维基·粉红猪小妹（共9个系列）",
+     "url": "https://zh.wikipedia.org/zh-cn/%E7%B2%89%E7%B4%85%E8%B1%AC%E4%B8%80%E5%AE%B6%E8%A6%AA"
+    }
+   ],
+   "notes": [
+    "季数按英文维基的「系列」划分：共9个系列（第9季仍在连载）。",
+    "国内视频平台常把第3季起拆成每季26集，所以和这里的季数/集数可能对不上；接入网盘后按真实目录再对一下。",
+    "特别篇（圣诞特辑、金靴子、南瓜派对、环游世界）和剧场版暂未收录。"
+   ],
+   "groups": [
+    {
+     "id": 1,
+     "label": "第1季",
+     "year": "2004",
+     "count": 52,
+     "status": "ready",
+     "episodes": [
+      {
+       "n": 1,
+       "title": "泥坑",
+       "titleEn": "Muddy Puddles",
+       "plot": "当雨停了的时候，佩奇和弟弟乔治一起出来玩他们最喜欢的跳泥坑游戏，猪爸爸和猪妈妈也加入了，他们都喜欢跳泥坑的游戏……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 2,
+       "title": "恐龙先生弄丢了",
+       "titleEn": "Mr Dinosaur Is Lost",
+       "plot": "恐龙先生是乔治最喜欢的玩具。恐龙先生丢了，乔治心急如焚。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 3,
+       "title": "最好的朋友",
+       "titleEn": "Best Friend",
+       "plot": "小羊苏西是佩奇最好的朋友。她们一起在房间里玩，乔治想加入她们，可是她们并不想要别人加入。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 4,
+       "title": "鹦鹉波莉",
+       "titleEn": "Polly Parrot",
+       "plot": "佩奇和乔治玩着爷爷和奶奶的新吉祥物：一只名叫波莉的鹦鹉。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 5,
+       "title": "捉迷藏",
+       "titleEn": "Hide and Seek",
+       "plot": "佩奇和乔治玩捉迷藏。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 6,
+       "title": "乔治第一天上幼儿园",
+       "titleEn": "The Playgroup",
+       "plot": "佩奇和乔治一起去幼儿园。今天是乔治第一天来，他向全班同学展示了他对恐龙的兴趣。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 7,
+       "title": "猪妈妈在工作",
+       "titleEn": "Mummy Pig at Work",
+       "plot": "猪妈妈正忙着用电脑。佩奇和乔治不小心把猪妈妈的电脑弄坏了，猪爸爸得想办法把它修好。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 8,
+       "title": "中间的小猪",
+       "titleEn": "Piggy in the Middle",
+       "plot": "佩奇取笑乔治，因为他抓不到球。猪妈妈建议他们玩一个游戏，帮助乔治学会如何接球，叫做“中间的小猪”。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 9,
+       "title": "爸爸的眼镜不见了",
+       "titleEn": "Daddy Loses His Glasses",
+       "plot": "猪爸爸眼镜丢了，没有眼镜就什么也看不清了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 10,
+       "title": "花园种菜",
+       "titleEn": "Gardening",
+       "plot": "佩奇和乔治去猪爷爷奶奶家看他们的花园。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 11,
+       "title": "打嗝",
+       "titleEn": "Hiccups",
+       "plot": "乔治早餐吃得太快而打嗝了，所以佩奇想治好他。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 12,
+       "title": "自行车",
+       "titleEn": "Bicycles",
+       "plot": "佩奇的朋友们都在骑自行车。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 13,
+       "title": "秘密",
+       "titleEn": "Secrets",
+       "plot": "猪妈妈给佩奇做了一个特殊的盒子，用来装秘密的东西。佩奇喜欢秘密。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 14,
+       "title": "放风筝",
+       "titleEn": "Flying a Kite",
+       "plot": "佩奇和乔治出去放风筝，但风筝卡在树上了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 15,
+       "title": "野餐",
+       "titleEn": "Picnic",
+       "plot": "一家人去野餐。佩奇和乔治找到一个小池塘，给鸭子们喂面包。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 16,
+       "title": "乐器",
+       "titleEn": "Musical Instruments",
+       "plot": "猪妈妈和猪爸爸在阁楼里找到一盒乐器，佩奇和乔治试了试弄响它们。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 17,
+       "title": "青蛙、小虫和蝴蝶",
+       "titleEn": "Frogs and Worms and Butterflies",
+       "plot": "佩奇和乔治在猪奶奶和猪爷爷的花园里发现了青蛙、蠕虫和蝴蝶，他们一起玩。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 18,
+       "title": "装扮游戏",
+       "titleEn": "Dressing Up",
+       "plot": "当佩奇和乔治装扮成猪妈妈和猪爸爸时，大家都笑了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 19,
+       "title": "新鞋子",
+       "titleEn": "New Shoes",
+       "plot": "猪妈妈给佩奇买了一双闪亮的红鞋子。佩奇非常喜欢她的新鞋，她从来都不想把它们脱下来——即使是在洗澡的时候！",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 20,
+       "title": "学校游园会",
+       "titleEn": "The School Fete",
+       "plot": "佩奇和她的家人去参加校庆。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 21,
+       "title": "妈妈的生日",
+       "titleEn": "Mummy Pig's Birthday",
+       "plot": "今天是猪妈妈的生日。佩奇、乔治和猪爸爸跟妈妈一样兴奋。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 22,
+       "title": "牙仙子",
+       "titleEn": "The Tooth Fairy",
+       "plot": "佩奇换牙了，所以她把牙放在枕头下给牙仙子。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 23,
+       "title": "新车",
+       "titleEn": "The New Car",
+       "plot": "家里的车坏了，所以佩奇和她的家人今天借了一辆新的。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 24,
+       "title": "寻宝",
+       "titleEn": "Treasure Hunt",
+       "plot": "猪奶奶和猪爷爷为佩奇和乔治组织了一次寻宝活动。爷爷把宝藏埋在花园里一个秘密的地方，佩奇和乔治必须用地图和线索找到它。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 25,
+       "title": "不太好",
+       "titleEn": "Not Very Well",
+       "plot": "佩奇病了，满脸都是红点。棕熊医生告诉她，她会没事的，但她必须卧床休息。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 26,
+       "title": "下雪了",
+       "titleEn": "Snow",
+       "plot": "今天在下雪。佩奇和乔治必须戴上帽子、围巾和手套。他们在雪地里玩得很开心，留下脚印，扔雪球。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 27,
+       "title": "风息堡",
+       "titleEn": "Windy Castle",
+       "plot": "佩奇和她的家人去了风城堡，当他们到达那里，他们看到了猪奶奶和猪爷爷的房子。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 28,
+       "title": "我的堂姐克洛伊",
+       "titleEn": "My Cousin Chloé",
+       "plot": "佩奇和乔治的堂姐克洛伊来到他们家。佩奇试图向克洛伊表明她是个大姑娘，但这很难。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 29,
+       "title": "煎饼",
+       "titleEn": "Pancakes",
+       "plot": "猪妈妈做薄煎饼，佩奇和乔治帮忙，但猪爸爸把薄煎饼翻得太高，粘在天花板上。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 30,
+       "title": "照顾猪宝宝",
+       "titleEn": "Babysitting",
+       "plot": "猪妈妈和猪爸爸晚上出去，留下猪奶奶和猪爷爷照看兴奋的佩帕和乔治。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 31,
+       "title": "芭蕾舞课",
+       "titleEn": "Ballet Lesson",
+       "plot": "佩奇去上她的第一堂芭蕾舞课，在那里和她的朋友们见面。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 32,
+       "title": "暴风雨",
+       "titleEn": "Thunderstorm",
+       "plot": "佩奇和乔治正在花园里玩，突然听到一种奇怪的声音。打雷了！",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 33,
+       "title": "清洁汽车",
+       "titleEn": "Cleaning the Car",
+       "plot": "这辆车太脏了，所以佩奇和她的家人要把它擦干净。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 34,
+       "title": "午餐",
+       "titleEn": "Lunch",
+       "plot": "佩奇猪和她的家人去猪爷爷奶奶家吃午饭。猪爷爷从花园里摘了些蔬菜，猪奶奶把它们做成了美味的沙拉。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 35,
+       "title": "宿营",
+       "titleEn": "Camping",
+       "plot": "佩奇和她的家人去乡下野营。猪爸爸很兴奋：他喜欢户外运动。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 36,
+       "title": "沉睡公主",
+       "titleEn": "The Sleepy Princess",
+       "plot": "现在是睡觉时间，但是佩奇一点也不困，所以猪爸爸给佩帕和乔治讲了一个关于一个美丽的公主的故事，她和国王爸爸……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 37,
+       "title": "树屋",
+       "titleEn": "The Tree House",
+       "plot": "猪爷爷给佩奇和乔治一个大惊喜。他在花园里给他们建了一座漂亮的树屋，窗户上挂着可爱的小窗帘。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 38,
+       "title": "化妆舞会",
+       "titleEn": "Fancy Dress Party",
+       "plot": "佩奇和乔治要开一个化装舞会，他们所有的朋友都被邀请了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 39,
+       "title": "博物馆",
+       "titleEn": "The Museum",
+       "plot": "佩奇和她的家人参观了博物馆。佩奇喜欢国王和王后的房间，并想象成为王后。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 40,
+       "title": "酷暑难当",
+       "titleEn": "Very Hot Day",
+       "plot": "今天很热。佩奇和乔治想跳进泥泞的水坑里，但水坑都干了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 41,
+       "title": "克洛伊的木偶秀",
+       "titleEn": "Chloé's Puppet Show",
+       "plot": "佩奇和乔治参观了他们的堂姐克洛伊的家，在那里他们上演了一个木偶剧，讲的是一头经常打呼噜的猪。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 42,
+       "title": "爸爸减肥",
+       "titleEn": "Daddy Gets Fit",
+       "plot": "佩奇告诉猪爸爸，他需要做一些运动和健身，而不是看电视，因为他有点胖。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 43,
+       "title": "整理房间",
+       "titleEn": "Tidying Up",
+       "plot": "佩奇和乔治的卧室有点乱。在猪爸爸和猪妈妈的帮助下，他们做了一个整理玩具的游戏。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 44,
+       "title": "操场",
+       "titleEn": "The Playground",
+       "plot": "佩奇和乔治和他们的朋友在操场上。佩帕喜欢荡秋千，但乔治有点恐高，不喜欢被推得太高。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 45,
+       "title": "爸爸挂照片",
+       "titleEn": "Daddy Puts up a Picture",
+       "plot": "猪爸爸提议趁猪妈妈出去的时候把佩奇和乔治的照片挂在墙上。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 46,
+       "title": "去海边玩",
+       "titleEn": "At the Beach",
+       "plot": "佩奇和乔治喜欢在阳光明媚的日子去海滩。他们带着他们的浮圈、沙滩球、水桶和铁锹。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 47,
+       "title": "瘦腿先生",
+       "titleEn": "Mister Skinnylegs",
+       "plot": "佩奇和乔治找到了一只友好的小蜘蛛。佩奇宣布，这只蜘蛛应该被称为“瘦腿先生”。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 48,
+       "title": "猪爷爷的船",
+       "titleEn": "Grandpa Pig's Boat",
+       "plot": "猪奶奶和猪爷爷有一艘漂亮的小船，今天，佩奇和乔治和他们一起在河上度过了一天。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 49,
+       "title": "购物",
+       "titleEn": "Shopping",
+       "plot": "猪妈妈，猪爸爸，佩奇和乔治去超市。乔治坐在手推车里，佩奇在妈妈的购物清单上找东西。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 50,
+       "title": "我的生日派对",
+       "titleEn": "My Birthday Party",
+       "plot": "今天是小猪佩奇的生日。她所有的朋友都被邀请来参加她的派对，猪爸爸要表演魔术……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 51,
+       "title": "爸爸的摄像机",
+       "titleEn": "Daddy's Movie Camera",
+       "plot": "猪爸爸有一台新的摄影机。一家人很开心的拍电影然后在自家的电视上看。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 52,
+       "title": "学校戏剧",
+       "titleEn": "School Play",
+       "plot": "佩奇的幼儿园正在上演一出话剧。佩奇的角色是小红帽，小狗丹尼是大灰狼，小兔瑞贝卡扮演奶奶。",
+       "verified": true,
+       "path": ""
+      }
+     ]
+    },
+    {
+     "id": 2,
+     "label": "第2季",
+     "year": "2006–2007",
+     "count": 52,
+     "status": "ready",
+     "episodes": [
+      {
+       "n": 1,
+       "title": "玩泡泡",
+       "titleEn": "Bubbles",
+       "plot": "佩奇教乔治吹泡泡，为了让乔治更容易吹出泡泡妈妈教他了更好的方法，但不一会儿泡泡水就没有了……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 2,
+       "title": "大象艾米丽",
+       "titleEn": "Emily Elephant",
+       "plot": "艾米丽是珮珮班里的新同学，大家都希望和艾米丽一起玩。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 3,
+       "title": "波莉的假期",
+       "titleEn": "Polly's Holiday",
+       "plot": "爷爷和奶奶要去度假，把波莉鹦鹉带到佩奇家。波莉趁大家买冰淇淋的时候飞到了树上，乔治想办法让波莉从树上下来。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 4,
+       "title": "泰迪熊的一天",
+       "titleEn": "Teddy's Day Out",
+       "plot": "佩奇一家今天去野餐，临走时佩奇和乔治落下了自己的泰迪和恐龙先生，爸爸帮他们取到后又叮嘱他们不要忘记。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 5,
+       "title": "神秘事件",
+       "titleEn": "Mysteries",
+       "plot": "看过电视里的侦探节目后，佩奇觉得自己也能胜任侦探的工作，爸爸为佩奇和乔治准备了侦探的帽子，而妈妈还拿出了放大镜给他们……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 6,
+       "title": "乔治的朋友",
+       "titleEn": "George's Friend",
+       "plot": "小朋友们一起玩的时候小兔瑞贝卡带着她的弟弟理查德来了，和乔治年纪相仿的理查德并不想和乔治玩，两个小朋友并不懂得分享……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 7,
+       "title": "稻草人先生",
+       "titleEn": "Mr. Scarecrow",
+       "plot": "学校里举办小红帽的舞台剧，每个小朋友都参加演出。小朋友的家人为他们准备服装和练习台词，在舞台剧上小朋友们都演得很好。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 8,
+       "title": "秋风起",
+       "titleEn": "Windy Autumn Day",
+       "plot": "秋天来了，天气变凉了，佩奇一家打算在外面玩，但却突然挂起了大风。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 9,
+       "title": "时间胶囊",
+       "titleEn": "The Time Capsule",
+       "plot": "羚羊太太让小朋友们放一些值得纪念的东西在时间胶囊里，她还为小朋友们录了一段视频。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 10,
+       "title": "潮水潭",
+       "titleEn": "Rock Pools",
+       "plot": "佩奇和乔治跟着爷爷和奶奶来海边玩耍，这里的海边虽然没有沙滩，但有着潮水褪去后的潮水潭……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 11,
+       "title": "快乐环保",
+       "titleEn": "Recycling",
+       "plot": "牛先生一大早就来收垃圾，而家里可以利用的垃圾需要分类后带去回收站，佩奇一家都很爱回收环保……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 12,
+       "title": "在池塘玩玩具船",
+       "titleEn": "The Boat Pond",
+       "plot": "佩奇一家来到小池塘边玩玩具船，而他们的朋友们也来到了池塘边，大家都有着各种各样的玩具船，但他们最喜欢的是猪爸爸用报纸做的纸船。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 13,
+       "title": "交通堵塞",
+       "titleEn": "Traffic Jam",
+       "plot": "爷爷和奶奶准备着佩奇一家的午餐，赶来爷爷奶奶家吃饭的佩奇一家遇到了堵车，妈妈找到的小路也完全没有办法……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 14,
+       "title": "睡觉时间",
+       "titleEn": "Bedtime",
+       "plot": "睡觉的时间到了，但佩奇和乔治却完全没有睡意，洗漱完毕后佩奇和乔治又缠着爸爸讲睡前故事……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 15,
+       "title": "运动会",
+       "titleEn": "Sports Day",
+       "plot": "今天是佩奇游戏小组的运动会，将举办许多特别活动，包括跑步、跳跃和“拔河”。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 16,
+       "title": "视力检查",
+       "titleEn": "The Eye Test",
+       "plot": "佩奇的朋友佩德罗·小马戴着眼镜。佩奇认为她可能也需要眼镜，所以猪妈妈带她去看验光师进行视力检查。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 17,
+       "title": "狗爷爷的修车厂",
+       "titleEn": "Granddad Dog's Garage",
+       "plot": "猪爸爸的车没油了，幸好狗爷爷的修车厂就在不远的地方。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 18,
+       "title": "大雾天",
+       "titleEn": "Foggy Day",
+       "plot": "猪妈妈和猪爸爸带着佩奇和乔治去操场玩。一路上，天开始起雾了，很快雾就大了，什么也看不见了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 19,
+       "title": "义卖活动",
+       "titleEn": "Jumble Sale",
+       "plot": "佩奇的游戏小组正在举办旧物义卖活动，为新屋顶筹集资金，羚羊夫人要求每个人都带一些东西来出售。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 20,
+       "title": "去游泳",
+       "titleEn": "Swimming",
+       "plot": "佩奇和她的家人在游泳池里。乔治一开始有点担心，但很快就和他的朋友理查德兔一起快乐地玩耍。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 21,
+       "title": "小小的生物",
+       "titleEn": "Tiny Creatures",
+       "plot": "佩奇和乔治在帮爷爷采蔬菜的时候看到了蜗牛，想到了扮演蜗牛的游戏。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 22,
+       "title": "猪爸爸的办公室",
+       "titleEn": "Daddy Pig's Office",
+       "plot": "佩奇和乔治正在参观猪爸爸的办公室并会见他的同事。爸爸和兔子先生和猫太太一起工作。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 23,
+       "title": "海盗岛",
+       "titleEn": "Pirate Island",
+       "plot": "猪爷爷和猪奶奶带着佩奇、乔治和他们所有的朋友乘船前往海盗岛。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 24,
+       "title": "乔治感冒了",
+       "titleEn": "George Catches a Cold",
+       "plot": "佩奇和乔治喜欢在泥泞的水坑里跳来跳去，即使是在下雨的时候也是如此——但是当乔治摘下雨帽时，他就感冒了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 25,
+       "title": "热气球之旅",
+       "titleEn": "The Balloon Ride",
+       "plot": "佩奇和她的家人去参加学校的聚会。抽奖的最高奖品是热气球之旅。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 26,
+       "title": "乔治的生日",
+       "titleEn": "George's Birthday",
+       "plot": "今天是乔治的生日，猪妈妈和猪爸爸计划了一个特别的日子。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 27,
+       "title": "长长的草",
+       "titleEn": "The Long Grass",
+       "plot": "好久没有搭理的花园长出了长长的草，它们看上去就像原始花园，爸爸的割草机很久没用生锈了，这个时候妈妈打电话叫来了爷爷和他的割草宝。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 28,
+       "title": "邮递员的女儿",
+       "titleEn": "Zoë Zebra the Postman's Daughter",
+       "plot": "今天斑马苏怡和爸爸一起来送信，她有给小伙伴们特殊信件，小伙伴们收到苏怡的信后都很开心，他们也给苏怡写了回信……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 29,
+       "title": "画画",
+       "titleEn": "Painting",
+       "plot": "佩奇和乔治都喜欢用手来画画，而擅长画画的爸爸决定带他们去外面写生，爸爸画的是一颗老樱桃树，佩奇和乔治也帮了忙……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 30,
+       "title": "布谷鸟钟",
+       "titleEn": "Cuckoo Clock",
+       "plot": "佩奇和乔治的房子里有一个布谷鸟的时钟，爸爸猪帮他们给布谷鸟时钟上了发条。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 31,
+       "title": "猪宝宝",
+       "titleEn": "The Baby Piggy",
+       "plot": "佩奇和乔治正在拜访他们的表弟克洛伊。今天是一个特殊的日子，因为佩奇和乔治第一次见到克洛伊的新生弟弟亚历山大。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 32,
+       "title": "猪爷爷的小火车",
+       "titleEn": "Grandpa's Little Train",
+       "plot": "猪爷爷建造了一辆奇妙的小火车，名叫格特鲁德。当他带着佩奇和乔治骑格特鲁德兜风时，他们在路上遇到了他们的朋友。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 33,
+       "title": "骑自行车",
+       "titleEn": "The Cycle Ride",
+       "plot": "佩奇和她的家人去骑一天自行车。佩奇骑着她的小自行车，猪妈妈和猪爸爸一前一后地骑着，乔治骑在后面。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 34,
+       "title": "滑冰",
+       "titleEn": "Ice Skating",
+       "plot": "佩奇和乔治今天要去滑冰。他们以前从未滑过冰，佩奇总是摔倒。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 35,
+       "title": "看牙医",
+       "titleEn": "The Dentist",
+       "plot": "佩奇和乔治要去牙医那里检查。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 36,
+       "title": "小屋",
+       "titleEn": "Dens",
+       "plot": "佩奇和乔治正在他们的树屋里玩耍。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 37,
+       "title": "假想的朋友",
+       "titleEn": "Pretend Friend",
+       "plot": "苏西羊来和佩奇一起玩，并假装成了一个朋友，名叫“狮子利奥”。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 38,
+       "title": "校车旅行",
+       "titleEn": "School Bus Trip",
+       "plot": "羚羊夫人带着佩奇和她的学校朋友乘坐校车去山里旅行。从山顶上可以看到美妙的景色，佩奇和她的朋友们听到回声很有趣。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 39,
+       "title": "小兔瑞贝卡",
+       "titleEn": "Rebecca Rabbit",
+       "plot": "佩奇和乔治今天要去小兔丽贝卡家。丽贝卡的房子有点不同；它位于山内，有隧道而不是楼梯和走廊。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 40,
+       "title": "森林小路",
+       "titleEn": "Nature Trail",
+       "plot": "佩奇和她的家人在树林里散步，并沿着乡村的自然小径行走。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 41,
+       "title": "笔友",
+       "titleEn": "Pen Pal",
+       "plot": "羚羊太太在课堂上介绍给了佩奇一个笔友，她是来自法国的小女孩小毛驴戴芬，戴芬虽然和佩奇语言不通，但她们都喜欢跳泥坑。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 42,
+       "title": "爷爷奶奶的阁楼",
+       "titleEn": "Granny and Grandpa's Attic",
+       "plot": "佩奇和乔治到爷爷奶奶家玩，他们一起帮爷爷奶奶整理阁楼，丢掉一些没用的东西。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 43,
+       "title": "争吵",
+       "titleEn": "The Quarrel",
+       "plot": "佩奇和小羊苏西是最好的朋友。但有一天，他们因为玩牌而发生争吵，并决定不再是最好的朋友。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 44,
+       "title": "玩具柜",
+       "titleEn": "The Toy Cupboard",
+       "plot": "佩奇和乔治的玩具太多了，为了整理他们的玩具爸爸和妈妈在网上订了一个玩具柜。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 45,
+       "title": "学校露营",
+       "titleEn": "School Camp",
+       "plot": "佩奇和她的朋友们与老师瞪羚夫人一起去露营。搭好帐篷、收集木棍后，他们围着篝火唱歌。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 46,
+       "title": "船长猪爸爸",
+       "titleEn": "Captain Daddy Pig",
+       "plot": "佩奇和她的家人借了猪爷爷的船，在河上度过了一天。一切都很顺利，直到船被长长的芦苇卡住了 - 猪爸爸来救援了！",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 47,
+       "title": "停电",
+       "titleEn": "The Powercut",
+       "plot": "佩奇和她的家人正在家里，突然出去，佩奇的房子一片漆黑。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 48,
+       "title": "踢足球",
+       "titleEn": "Bouncy Ball",
+       "plot": "佩奇和乔治正在花园里玩弹力球，这时小羊苏西带着两个网球拍出现了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 49,
+       "title": "观看星星",
+       "titleEn": "Stars",
+       "plot": "现在是晚上，天空中闪烁着闪亮的星星。猪妈妈和猪爸爸让佩奇和乔治把外套套在睡衣外面，出去看星星。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 50,
+       "title": "猪爸爸的生日",
+       "titleEn": "Daddy Pig's Birthday",
+       "plot": "今天是猪爸爸的生日，但他还要上班。爸爸不在的时候，猪妈妈、佩奇和乔治制作了巧克力生日蛋糕，并准备了“特别的生日惊喜”。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 51,
+       "title": "过夜派对",
+       "titleEn": "Sleepover",
+       "plot": "佩奇将与苏西、丽贝卡、小猫凯迪和大象艾米丽一起去斑马佐伊家过夜。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 52,
+       "title": "寒冷冬日",
+       "titleEn": "Cold Winter Day",
+       "plot": "佩奇和乔治穿上了厚厚的衣服，今天的天气很冷，他们最喜欢玩的泥坑也被冻住了，鸭子的池塘也结了冰。",
+       "verified": true,
+       "path": ""
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "label": "第3季",
+     "year": "2009–2010",
+     "count": 52,
+     "status": "ready",
+     "episodes": [
+      {
+       "n": 1,
+       "title": "工作和娱乐",
+       "titleEn": "Work and Play",
+       "plot": "日子过糊涂的爸爸以为今天是周末，当他准备休息的时候妈妈才提醒他今天要上班，大人们都有着自己的工作……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 2,
+       "title": "彩虹",
+       "titleEn": "The Rainbow",
+       "plot": "佩奇一家驾车去兜风，他们在路上寻找着自己喜欢的颜色。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 3,
+       "title": "小马佩德罗咳嗽了",
+       "titleEn": "Pedro's Cough",
+       "plot": "上课的时候小马佩德罗突然咳嗽了，羚羊太太打电话叫来了棕熊医生，棕熊医生给佩德罗喝下了很难喝的糖浆……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 4,
+       "title": "图书馆",
+       "titleEn": "The Library",
+       "plot": "妈妈讲的睡前故事佩奇都听过，她翻到了一本关于混凝土的书，而这本书是爸爸忘记还给图书馆的书。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 5,
+       "title": "露营车之旅",
+       "titleEn": "The Camper Van",
+       "plot": "爸爸准备给佩奇和乔治一个惊喜，他开来了一辆露营车，没有接触过露营车的爸爸并不了解它的功能，幸好有朋友们告诉他如何使用……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 6,
+       "title": "露营假期",
+       "titleEn": "Camping Holiday",
+       "plot": "在露营车上醒来的佩奇一家开始了他们的露营假期，爸爸想要看电视的举动被妈妈阻止，他们一起去鸭子乐园玩耍……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 7,
+       "title": "一起堆肥",
+       "titleEn": "Compost",
+       "plot": "佩奇一家把收集到的蔬果皮拿到了爷爷家里，爷爷要给他的花园堆肥，爷爷有一个神奇的箱子，里面放满了蔬果削下来的皮……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 8,
+       "title": "小兔理查德来玩耍",
+       "titleEn": "Richard Rabbit Comes to Play",
+       "plot": "小兔理查德来佩奇家玩耍，他和乔治把卧室变成了恐龙乐园，这让佩奇感觉很吵，佩奇也叫来了自己最好的朋友苏西……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 9,
+       "title": "募捐长跑",
+       "titleEn": "Fun Run",
+       "plot": "学校的房顶漏水了，为了修缮屋顶猪爸爸建议来一次募捐长跑，而这个艰巨的任务当然就落在了提议者猪爸爸身上……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 10,
+       "title": "洗衣服",
+       "titleEn": "Washing",
+       "plot": "佩奇、乔治和妈妈一起跳泥坑的时候弄脏了爸爸的运动衣，在洗衣服的时候佩奇把自己的红色外套也放了进去……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 11,
+       "title": "波莉去游船",
+       "titleEn": "Polly's Boat Trip",
+       "plot": "猪爷爷带着佩奇一家乘船游玩，在起航前他又和狗爷爷吵嘴了，爷爷的鹦鹉波莉也跟在船上。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 12,
+       "title": "小毛驴戴芬",
+       "titleEn": "Delphine Donkey",
+       "plot": "爸爸接到了一个电话，电话里讲着他听不懂的法语，妈妈接过电话后才知道是小毛驴戴芬一家，戴芬将在佩奇家度过美好的一天。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 13,
+       "title": "消防车",
+       "titleEn": "The Fire Engine",
+       "plot": "妈妈们今天要在消防站里聚会，她们肩负应对火灾的任务，而爸爸们今天则有足球和烧烤的活动。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 14,
+       "title": "公主佩奇",
+       "titleEn": "Princess Peppa",
+       "plot": "妈妈好不容易才把佩奇和乔治哄睡着，爷爷奶奶却在这时来看他们，醒来的佩奇和乔治完全没有睡意，一家人轮流给他们讲睡前故事……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 15,
+       "title": "幼儿园的小熊泰迪",
+       "titleEn": "Teddy Playgroup",
+       "plot": "幼儿园里的小熊泰迪会被孩子们轮流带回家里，这周轮到了佩奇。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 16,
+       "title": "丹尼的海盗派对",
+       "titleEn": "Danny's Pirate Party",
+       "plot": "小朋友们都来参加小狗丹尼的生日派对，狗爷爷和猪爷爷商量搞一个海盗派对，他们则扮演水手去争夺宝藏……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 17,
+       "title": "土豆先生来了",
+       "titleEn": "Mr. Potato Comes to Town",
+       "plot": "佩奇和家人们都很喜欢土豆先生的节目，土豆先生在小镇上开了一个健身会所，大家都去看土豆先生，土豆先生和别的土豆很不一样……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 18,
+       "title": "坐火车",
+       "titleEn": "The Train Ride",
+       "plot": "幼儿园组织小朋友们坐火车去玩，在旅行途中小朋友们找到了活动表格上面的所有图案，他们在火车上看到了很多不同的风景。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 19,
+       "title": "猪奶奶养的鸡",
+       "titleEn": "Granny Pig's Chickens",
+       "plot": "佩奇和乔治来到爷爷奶奶家玩，他们还看了妈妈小时候的房间。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 20,
+       "title": "才艺日",
+       "titleEn": "Talent Day",
+       "plot": "老师要小朋友们在才艺日里表演节目，佩奇为了准备才艺很晚才睡，她有很多的才艺。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 21,
+       "title": "月球之旅",
+       "titleEn": "A Trip To the Moon",
+       "plot": "乔治和艾蒙德在玩他们的太空玩具，猪爸爸看到后决定带他们去参加月球展览，来一次模拟的月球之旅。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 22,
+       "title": "跟爷爷来游乐场",
+       "titleEn": "Grandpa at the Playground",
+       "plot": "爷爷带着佩奇和乔治来到了游乐场玩，作为唯一的大人，爷爷不得不照顾这些小朋友们，但溺爱孩子的爷爷并没有办法维持好秩序……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 23,
+       "title": "金鱼金金",
+       "titleEn": "Goldie the Fish",
+       "plot": "佩奇家的宠物金鱼金金生病了，它没有一点儿精神，佩奇和家人决定带他去看仓鼠医生。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 24,
+       "title": "游乐场",
+       "titleEn": "Funfair",
+       "plot": "佩奇一家来到游乐场玩耍，乔治和爸爸一起去玩溜滑梯和摩天轮，猪爸爸看起了有点儿爬高。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 25,
+       "title": "数字",
+       "titleEn": "Numbers",
+       "plot": "小朋友们正在跟着羚羊太太学数数，孩子们学的很快，尤其是在游戏的时候，他们比赛谁能跳更多的绳，谁能转更多的呼啦圈。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 26,
+       "title": "挖路",
+       "titleEn": "Digging up the Road",
+       "plot": "去游乐场玩耍的佩奇一家遇到了堵车，牛先生正在挖路维修，乔治很喜欢牛先生的工作。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 27,
+       "title": "狐狸弗雷迪",
+       "titleEn": "Freddy Fox",
+       "plot": "佩奇和她的朋友们在玩捉迷藏，但最擅长玩这个游戏的是有着超级嗅觉的狐狸弗雷迪。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 28,
+       "title": "吹口哨",
+       "titleEn": "Whistling",
+       "plot": "当佩奇意识到除了她每个人都能吹口哨后，她试着去学吹口哨。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 29,
+       "title": "仓鼠兽医的乌龟",
+       "titleEn": "Doctor Hamster's Tortoise",
+       "plot": "兽医仓鼠医生来到佩奇所在的幼儿园给孩子们看她的宠物。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 30,
+       "title": "太阳、大海和雪",
+       "titleEn": "Sun, Sea and Snow",
+       "plot": "佩奇和她的朋友和家人都期待着去海边玩，在那里他们可以堆沙堡，但是当他们到达海滩时，那里的雪太多了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 31,
+       "title": "猪爷爷的电脑",
+       "titleEn": "Grandpa Pig's Computer",
+       "plot": "猪妈妈把她的旧电脑给了猪奶奶和猪爷爷。他们能使用它吗?",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 32,
+       "title": "医院",
+       "titleEn": "Hospital",
+       "plot": "佩奇和她的幼儿园的朋友们和羚羊夫人一起去看望小马佩德罗，佩德罗因腿骨折住院了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 33,
+       "title": "春天",
+       "titleEn": "Spring",
+       "plot": "猪爷爷为佩奇和她的朋友们组织了一次巧克力蛋寻宝活动。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 34,
+       "title": "兔小姐的直升机",
+       "titleEn": "Miss Rabbit's Helicopter",
+       "plot": "兔子小姐乘坐她的救援直升机带着佩奇一家去兜风，除了不喜欢高的猪爸爸。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 35,
+       "title": "小宝宝亚历山大",
+       "titleEn": "Baby Alexander",
+       "plot": "亚历山大宝宝太小还不会说话，直到佩奇教他第一个单词。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 36,
+       "title": "兔爷爷的灯塔",
+       "titleEn": "Grampy Rabbit's Lighthouse",
+       "plot": "猪爷爷带着佩奇、乔治和小狗丹尼去参观兔爷爷的灯塔。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 37,
+       "title": "兔小姐请假",
+       "titleEn": "Miss Rabbit's Day Off",
+       "plot": "兔子小姐的脚踝受伤了，所以她的姐姐和朋友们主动提出在冰淇淋摊、超市和她工作的其他地方代替她。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 38,
+       "title": "秘密俱乐部",
+       "titleEn": "The Secret Club",
+       "plot": "佩奇和苏西成立了一个秘密俱乐部，但很快每个人都想加入。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 39,
+       "title": "兔爷爷的修船厂",
+       "titleEn": "Grampy Rabbit's Boatyard",
+       "plot": "猪爷爷的船沉了，需要有人帮忙，所以狗爷爷把他们都送到兔子爷爷的船坞修理船。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 40,
+       "title": "沙沙、咯咯、梆梆交响乐",
+       "titleEn": "Shake, Rattle and Bang",
+       "plot": "羚羊夫人给全班上了一节音乐课。一开始有很多的撞击声，但没过多久，家长们来了，并找到了自己留下来的笔记。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 41,
+       "title": "爸爸是冠军",
+       "titleEn": "Champion Daddy Pig",
+       "plot": "猪爸爸失去了跳泥坑冠军的头衔，直到所有人帮助他训练，把它赢回来。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 42,
+       "title": "话匣子",
+       "titleEn": "Chatterbox",
+       "plot": "小猪佩奇话太多了。至少苏西是这么认为的。作为回应，佩奇决定她再也不说话了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 43,
+       "title": "狐狸先生的货车",
+       "titleEn": "Mr. Fox's Van",
+       "plot": "当猪爸爸需要一块新表时，狐狸先生在他的货车后面发现了三块落地大摆钟。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 44,
+       "title": "克洛伊的大朋友",
+       "titleEn": "Chloé's Big Friends",
+       "plot": "佩奇和乔治跟堂姐克洛伊和她的朋友们一起去玩，但是大一点的孩子们不想玩任何“婴儿”游戏。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 45,
+       "title": "体育课",
+       "titleEn": "Gym Class",
+       "plot": "羚羊夫人带孩子们去上兔子爷爷的体育课，一开始他们觉得所有的东西都很吓人，但兔子爷爷告诉孩子们他是如何探索丛林……",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 46,
+       "title": "黑莓灌木丛",
+       "titleEn": "The Blackberry Bush",
+       "plot": "佩奇和她的家人在猪爷爷和猪奶奶的花园里收集苹果和黑莓做派。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 47,
+       "title": "做陶器",
+       "titleEn": "Pottery",
+       "plot": "斑马夫人教佩奇、乔治、佐伊、扎扎和祖祖如何用粘土制作一套真正的茶具。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 48,
+       "title": "纸飞机",
+       "titleEn": "Paper Aeroplanes",
+       "plot": "猪爸爸的一些重要工作文件不见了，因为猪妈妈、佩奇和乔治不小心把它们做成了纸飞机。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 49,
+       "title": "大象埃德蒙的生日",
+       "titleEn": "Edmond Elephant's Birthday",
+       "plot": "这是大象埃德蒙的生日聚会，佩奇、苏西、丹尼和艾米丽正在帮忙。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 50,
+       "title": "世界上最大的泥坑",
+       "titleEn": "The Biggest Muddy Puddle in the World",
+       "plot": "佩奇和乔治一天早上醒来，发现雨水造成了洪水，他们的房子现在在一个岛上。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 51,
+       "title": "圣诞老人的小屋",
+       "titleEn": "Santa's Grotto",
+       "plot": "佩奇和乔治还有他们的朋友去看圣诞老人。佩奇想要一个非常特别的娃娃作为礼物，但是圣诞老人能把它送给她吗?",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 52,
+       "title": "圣诞老人的来访",
+       "titleEn": "Santa's Visit",
+       "plot": "佩奇和乔治在圣诞节早上醒得很早。圣诞老人送了他们想要的礼物了吗?",
+       "verified": true,
+       "path": ""
+      }
+     ]
+    },
+    {
+     "id": 4,
+     "label": "第4季",
+     "year": "2011–2012",
+     "count": 52,
+     "status": "later",
+     "episodes": [],
+     "note": "集列表后续添加（中文片名待核实）"
+    },
+    {
+     "id": 5,
+     "label": "第5季",
+     "year": "2016–2018",
+     "count": 52,
+     "status": "later",
+     "episodes": [],
+     "note": "集列表后续添加（中文片名待核实）"
+    },
+    {
+     "id": 6,
+     "label": "第6季",
+     "year": "2019–2020",
+     "count": 52,
+     "status": "later",
+     "episodes": [],
+     "note": "集列表后续添加（中文片名待核实）"
+    },
+    {
+     "id": 7,
+     "label": "第7季",
+     "year": "2021–2023",
+     "count": 65,
+     "status": "later",
+     "episodes": [],
+     "note": "集列表后续添加（中文片名待核实）"
+    },
+    {
+     "id": 8,
+     "label": "第8季",
+     "year": "2023–2025",
+     "count": 52,
+     "status": "later",
+     "episodes": [],
+     "note": "集列表后续添加（中文片名待核实）"
+    },
+    {
+     "id": 9,
+     "label": "第9季",
+     "year": "2025–",
+     "count": null,
+     "status": "later",
+     "episodes": [],
+     "note": "连载中，总集数待核实（英文维基已列出26集）"
+    }
+   ]
+  },
+  {
+   "id": "ultraman",
+   "title": "奥特曼",
+   "subtitle": "Ultraman",
+   "kidIntro": "选一个光之英雄，一起保护地球！",
+   "intro": "日本圆谷制作的特摄系列。这里先放最常见的几部，其他以后添加。",
+   "unitName": "系列",
+   "sources": [
+    {
+     "label": "萌娘百科·奥特曼（初代，39集与中文片名）",
+     "url": "https://zh.moegirl.org.cn/%E5%A5%A5%E7%89%B9%E6%9B%BC(%E7%89%B9%E6%91%84%E5%89%A7)"
+    },
+    {
+     "label": "百度百科·奥特曼（1966，前5集剧情）",
+     "url": "https://baike.baidu.com/item/%E5%A5%A5%E7%89%B9%E6%9B%BC/19824689"
+    },
+    {
+     "label": "奥特曼粉丝联盟·初代奥特曼剧集目录",
+     "url": "https://web.ultramanclub.com/2006-2/2006228184620.htm"
+    },
+    {
+     "label": "奥特曼粉丝联盟·迪迦奥特曼剧集目录（52集片名）",
+     "url": "https://web.ultramanclub.com/2006-4/2006415223704.htm"
+    },
+    {
+     "label": "百度百科·迪迦奥特曼（52集；部分集剧情）",
+     "url": "https://baike.baidu.com/item/%E8%BF%AA%E8%BF%A6%E5%A5%A5%E7%89%B9%E6%9B%BC/59858026"
+    },
+    {
+     "label": "百度百科·超级赛罗格斗（23集片名）",
+     "url": "https://baike.baidu.com/item/%E8%B6%85%E7%BA%A7%E8%B5%9B%E7%BD%97%E6%A0%BC%E6%96%97/2764990"
+    },
+    {
+     "label": "百度百科·泰罗奥特曼（53集）",
+     "url": "https://baike.baidu.com/item/%E6%B3%B0%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC/59853935"
+    },
+    {
+     "label": "百度百科·布莱泽奥特曼",
+     "url": "https://baike.baidu.com/item/%E5%B8%83%E8%8E%B1%E6%B3%BD%E5%A5%A5%E7%89%B9%E6%9B%BC/62655556"
+    }
+   ],
+   "notes": [
+    "赛罗奥特曼这里放的是《超级赛罗格斗》（2012，23集，每集约3分钟）；《赛罗奥特曼英雄传》是25集总集篇，暂未收录。",
+    "布莱泽奥特曼：百度百科显示正片25集（不是12集）。",
+    "迪迦第6–26集、初代第6–39集、赛罗全部的一句话剧情待核实。"
+   ],
+   "groups": [
+    {
+     "id": "classic",
+     "label": "初代",
+     "fullName": "初代奥特曼",
+     "year": "1966–1967",
+     "count": 39,
+     "status": "ready",
+     "intro": "来自M78星云的奥特曼，和科学特搜队一起保护地球。",
+     "emoji": "⭐",
+     "episodes": [
+      {
+       "n": 1,
+       "title": "奥特作战第一号",
+       "plot": "科学特搜队的早田进遇到来自M78星云的奥特曼，两人合体，一起打败了怪兽百慕拉。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 2,
+       "title": "打击侵略者",
+       "plot": "巴尔坦星人来地球修飞船，却想占领地球，被奥特曼打败了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 3,
+       "title": "科特队出击",
+       "plot": "吃电的透明怪兽内隆嘎袭击发电站，最后被奥特曼打败。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 4,
+       "title": "大爆炸五秒前",
+       "plot": "海底原人拉贡变得很大很大，身上还挂着一颗原子弹，最后被奥特曼制伏。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 5,
+       "title": "食虫草的秘密",
+       "plot": "一种奇怪的食虫草变成大怪兽冲进城市，奥特曼赶来保护大家。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 6,
+       "title": "沿岸警备命令",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 7,
+       "title": "巴拉吉的青石",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 8,
+       "title": "怪兽无法无天地带",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 9,
+       "title": "电光石火作战",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 10,
+       "title": "神秘的恐龙基地",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 11,
+       "title": "来自宇宙的冒失鬼",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 12,
+       "title": "木乃伊的咆哮",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 13,
+       "title": "石油SOS",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 14,
+       "title": "珍珠贝防卫指令",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 15,
+       "title": "恐怖的宇宙射线",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 16,
+       "title": "科特队向宇宙进发",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 17,
+       "title": "无限循环的护照",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 18,
+       "title": "从行星来的兄弟",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 19,
+       "title": "恶魔又来了",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 20,
+       "title": "恐怖的87号国道",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 21,
+       "title": "快冲出喷烟",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 22,
+       "title": "地面破坏工作",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 23,
+       "title": "我的故乡是地球",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 24,
+       "title": "海底科学基地",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 25,
+       "title": "怪彗星兹乙风",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 26,
+       "title": "怪兽殿下（前篇）",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 27,
+       "title": "怪兽殿下（后篇）",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 28,
+       "title": "人类标本5·6",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 29,
+       "title": "向地底的挑战",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 30,
+       "title": "虚幻的雪山",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 31,
+       "title": "来者是谁",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 32,
+       "title": "不断逆袭",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 33,
+       "title": "被禁止的语言",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 34,
+       "title": "天空赠送的礼物",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 35,
+       "title": "怪兽墓场",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 36,
+       "title": "别开枪！岚",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 37,
+       "title": "小英雄",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 38,
+       "title": "宇宙船救援命令",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 39,
+       "title": "再见了，奥特曼",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      }
+     ]
+    },
+    {
+     "id": "tiga",
+     "label": "迪迦",
+     "fullName": "迪迦奥特曼",
+     "year": "1996–1997",
+     "count": 52,
+     "status": "ready",
+     "intro": "圆大古变成光之巨人迪迦，和GUTS队友一起守护地球。",
+     "emoji": "🌟",
+     "episodes": [
+      {
+       "n": 1,
+       "title": "光的继承者",
+       "plot": "两只怪兽出现了，GUTS的队员在战斗中得到了传说中的巨人迪迦的帮助。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 2,
+       "title": "石头的神话",
+       "plot": "岛上的人接连变成石头，GUTS赶去阻止捣乱的怪兽。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 3,
+       "title": "恶魔的预言",
+       "plot": "一位外星人希望成为地球的保护者，可队长相信迪迦才是人类的守护者。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 4,
+       "title": "再见了，地球",
+       "plot": "一只怪兽吞下了载着地球人的宇宙飞船，大家齐心协力想办法战胜它。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 5,
+       "title": "怪兽出没的日子",
+       "plot": "海边漂来怪兽的身体，可是它又活过来了，GUTS想出新办法迎战。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 6,
+       "title": "第二次接触",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 7,
+       "title": "降临到地球的外星人",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 8,
+       "title": "万圣节的夜晚",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 9,
+       "title": "等待怪兽的少女",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 10,
+       "title": "被封闭的游乐园",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 11,
+       "title": "安魂曲",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 12,
+       "title": "从深海来的SOS",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 13,
+       "title": "不做奴隶",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 14,
+       "title": "被流放的目标",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 15,
+       "title": "梦幻疾走",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 16,
+       "title": "复苏的鬼神",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 17,
+       "title": "红与蓝的决战",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 18,
+       "title": "哥尔赞的逆袭",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 19,
+       "title": "GUTS奔向宇宙（前篇）",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 20,
+       "title": "GUTS奔向宇宙（后篇）",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 21,
+       "title": "出场了，德班",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 22,
+       "title": "大雾来了",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 23,
+       "title": "恐龙们的星球",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 24,
+       "title": "前进！怪兽探险队",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 25,
+       "title": "恶魔的审判",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 26,
+       "title": "彩虹般的怪兽魔境",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 27,
+       "title": "看见了奥比克",
+       "plot": "开发工地传出怪兽的传闻，GUTS被弄得手忙脚乱，迪迦出现了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 28,
+       "title": "呼唤……",
+       "plot": "新的怪兽不断出现，GUTS的队员们都累坏了，开始想一想该怎么办。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 29,
+       "title": "蓝色夜晚的记忆",
+       "plot": "新城的身体里藏着一位外星人，他来接15年前留在地球的妹妹。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 30,
+       "title": "怪兽动物园",
+       "plot": "动物园里突然出现怪兽，丽娜不希望先动手伤害它。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 31,
+       "title": "GUTS基地被袭击",
+       "plot": "陨石里的小生命占据了GUTS基地的电脑，想收集能量。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 32,
+       "title": "滋尔达中心的攻防",
+       "plot": "博士女儿的宠物变成了怪兽，GUTS进入防守状态。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 33,
+       "title": "黑暗都市",
+       "plot": "魔兽让人接连失踪，GUTS去挑战黑暗的魔界。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 34,
+       "title": "南方海峡",
+       "plot": "飞行员泽井的飞机失去联络，GUTS发现有人想利用他。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 35,
+       "title": "沉睡的少女",
+       "plot": "泽井带来的生物兵器其实是外星人，丽娜被抓走，迪迦飞去救人。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 36,
+       "title": "超越时空的微笑",
+       "plot": "消失的船和飞机突然回来了，GUTS击退了怪兽。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 37,
+       "title": "花",
+       "plot": "赏花的地方发生奇怪的变化，留在基地的大古察觉到了不对劲。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 38,
+       "title": "海市蜃楼的怪兽",
+       "plot": "TPC散布传闻观察大家的反应，没想到怪兽真的出现了。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 39,
+       "title": "你好，奥特曼",
+       "plot": "有超能力的青年邀请大古参加游戏，大古心里有些羡慕。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 40,
+       "title": "梦",
+       "plot": "宇宙线落到地球，怪兽顺着人们做梦的脑波出现，GUTS一时没办法。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 41,
+       "title": "从宇宙回来的朋友",
+       "plot": "新城的好友乘坐的飞船遭袭击，神奇的生命体里冒出了好朋友。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 42,
+       "title": "少女消失的街道",
+       "plot": "矢住润被卷进奇怪的空间战斗，游戏城市的电脑开始了计划。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 43,
+       "title": "地中的鲨鱼",
+       "plot": "九州熊本出现怪兽，大古变身后发生了奇怪的事。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 44,
+       "title": "影的继承者",
+       "plot": "有人拥有变身的遗传因子，抢走了大古的变身道具。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 45,
+       "title": "永远的生命",
+       "plot": "古代植物的花粉让人看到幻觉，大古去挑战命运。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 46,
+       "title": "至急！镰仓",
+       "plot": "星野发现海上有怪兽靠近，大古和丽娜凭直觉赶往现场。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 47,
+       "title": "告别黑暗",
+       "plot": "细胞移植的猴子引发了电力事故，堀井清理数据，见到了江崎千鹤。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 48,
+       "title": "月球来的逃亡者",
+       "plot": "月面基地全军覆没，外星人藏着阴谋，入麻惠美的提案被拒绝。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 49,
+       "title": "奥特之星",
+       "plot": "大古追着一个买怪兽的男人，来到了1965年的圆谷制作组。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 50,
+       "title": "飞得更高！Take Me Higher！",
+       "plot": "大古的噩梦成真，古代遗迹里冒出怪兽，GUTS为高速飞行发愁。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 51,
+       "title": "黑暗的支配者",
+       "plot": "世界各地都出现怪兽，最强的恶魔怪兽登场，大古展现光的力量。",
+       "verified": true,
+       "path": ""
+      },
+      {
+       "n": 52,
+       "title": "致以辉煌的人们",
+       "plot": "迪迦遭遇失败，GUTS尝试用光的遗传因子来帮助迪迦。",
+       "verified": true,
+       "path": ""
+      }
+     ]
+    },
+    {
+     "id": "zero",
+     "label": "赛罗",
+     "fullName": "赛罗奥特曼（超级赛罗格斗）",
+     "year": "2012–2013",
+     "count": 23,
+     "status": "ready",
+     "intro": "赛文的儿子赛罗，在怪兽墓场里勇敢战斗。每集约3分钟。",
+     "emoji": "💫",
+     "episodes": [
+      {
+       "n": 1,
+       "title": "怪兽墓场",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 2,
+       "title": "雷德王",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 3,
+       "title": "第二回合",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 4,
+       "title": "比格蒙",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 5,
+       "title": "强壮日冕型",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 6,
+       "title": "贝姆Q的组合",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 7,
+       "title": "月神奇迹型",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 8,
+       "title": "真正力量",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 9,
+       "title": "暗黑五人组",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 10,
+       "title": "地狱之夏塔尔",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 11,
+       "title": "极恶组",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 12,
+       "title": "冰冻的格罗剑",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 13,
+       "title": "钢铁武士",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 14,
+       "title": "同心协力",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 15,
+       "title": "暗黑大皇帝",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 16,
+       "title": "贝利亚",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 17,
+       "title": "暗黑赛罗",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 18,
+       "title": "烤鸡之死",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 19,
+       "title": "迷失",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 20,
+       "title": "前进吧，赛罗奥特曼",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 21,
+       "title": "正义与邪恶",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 22,
+       "title": "守护",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      },
+      {
+       "n": 23,
+       "title": "胜利",
+       "plot": "",
+       "verified": false,
+       "path": ""
+      }
+     ]
+    },
+    {
+     "id": "taro",
+     "label": "泰罗",
+     "fullName": "泰罗奥特曼",
+     "year": "1973–1974",
+     "count": 53,
+     "status": "later",
+     "intro": "后续添加",
+     "emoji": "🔥",
+     "episodes": [],
+     "note": "共53集（集列表后续添加）"
+    },
+    {
+     "id": "blazar",
+     "label": "布莱泽",
+     "fullName": "布莱泽奥特曼",
+     "year": "2023–",
+     "count": 25,
+     "status": "later",
+     "intro": "后续添加",
+     "emoji": "🛡️",
+     "episodes": [],
+     "note": "正片25集，另有总集篇（集列表后续添加）"
+    }
+   ]
+  }
+ ]
+}
